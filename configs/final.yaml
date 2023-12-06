@@ -1,0 +1,40 @@
+modality:
+  - rgb
+  - srm
+  - bayar
+train_datalist:
+  casia: data/casia_datalist.json
+val_datalist:
+  casia: data/casia_datalist.json
+  columbia: data/columbia_datalist.json
+  coverage: data/coverage_datalist.json
+no_gaussian_blur: True
+no_color_jitter: True
+
+# model
+loss_on_mid_map: True
+otsu_sel: True
+otsu_portion: 1
+
+# losses
+map_label_weight: 1.
+map_mask_weight: 0.
+volume_mask_weight: 0.
+volume_label_weight: 0.
+consistency_weight: 0.1
+consistency_source: ensemble
+mvc_weight: 0.1
+mvc_single_weight:
+  - 1
+  - 2
+  - 2
+mvc_time_dependent: True
+
+# arch
+fcn_up: 16
+
+# misc
+batch_size: 36
+
+# eval
+tile_size: 1024

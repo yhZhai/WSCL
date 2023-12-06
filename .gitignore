@@ -178,3 +178,5 @@ pyrightconfig.json
 
 *.DS_Store
 
+tmp/
+pretrained/

@@ -1,0 +1,1048 @@
+{
+    "16t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/16t.tif",
+        "mask": "data/coverage/val/mask/16forged.tif",
+        "label": 1
+    },
+    "25t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/25t.tif",
+        "mask": "data/coverage/val/mask/25forged.tif",
+        "label": 1
+    },
+    "81.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/81.tif",
+        "label": 0
+    },
+    "26.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/26.tif",
+        "label": 0
+    },
+    "67.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/67.tif",
+        "label": 0
+    },
+    "35t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/35t.tif",
+        "mask": "data/coverage/val/mask/35forged.tif",
+        "label": 1
+    },
+    "30t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/30t.tif",
+        "mask": "data/coverage/val/mask/30forged.tif",
+        "label": 1
+    },
+    "94t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/94t.tif",
+        "mask": "data/coverage/val/mask/94forged.tif",
+        "label": 1
+    },
+    "9.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/9.tif",
+        "label": 0
+    },
+    "52.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/52.tif",
+        "label": 0
+    },
+    "46t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/46t.tif",
+        "mask": "data/coverage/val/mask/46forged.tif",
+        "label": 1
+    },
+    "86t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/86t.tif",
+        "mask": "data/coverage/val/mask/86forged.tif",
+        "label": 1
+    },
+    "95.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/95.tif",
+        "label": 0
+    },
+    "94.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/94.tif",
+        "label": 0
+    },
+    "73t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/73t.tif",
+        "mask": "data/coverage/val/mask/73forged.tif",
+        "label": 1
+    },
+    "23t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/23t.tif",
+        "mask": "data/coverage/val/mask/23forged.tif",
+        "label": 1
+    },
+    "68t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/68t.tif",
+        "mask": "data/coverage/val/mask/68forged.tif",
+        "label": 1
+    },
+    "88t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/88t.tif",
+        "mask": "data/coverage/val/mask/88forged.tif",
+        "label": 1
+    },
+    "45.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/45.tif",
+        "label": 0
+    },
+    "93t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/93t.tif",
+        "mask": "data/coverage/val/mask/93forged.tif",
+        "label": 1
+    },
+    "27.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/27.tif",
+        "label": 0
+    },
+    "44.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/44.tif",
+        "label": 0
+    },
+    "48.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/48.tif",
+        "label": 0
+    },
+    "10.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/10.tif",
+        "label": 0
+    },
+    "50t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/50t.tif",
+        "mask": "data/coverage/val/mask/50forged.tif",
+        "label": 1
+    },
+    "90.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/90.tif",
+        "label": 0
+    },
+    "6.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/6.tif",
+        "label": 0
+    },
+    "24t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/24t.tif",
+        "mask": "data/coverage/val/mask/24forged.tif",
+        "label": 1
+    },
+    "87.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/87.tif",
+        "label": 0
+    },
+    "20.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/20.tif",
+        "label": 0
+    },
+    "54.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/54.tif",
+        "label": 0
+    },
+    "72t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/72t.tif",
+        "mask": "data/coverage/val/mask/72forged.tif",
+        "label": 1
+    },
+    "13.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/13.tif",
+        "label": 0
+    },
+    "67t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/67t.tif",
+        "mask": "data/coverage/val/mask/67forged.tif",
+        "label": 1
+    },
+    "32.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/32.tif",
+        "label": 0
+    },
+    "8t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/8t.tif",
+        "mask": "data/coverage/val/mask/8forged.tif",
+        "label": 1
+    },
+    "22.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/22.tif",
+        "label": 0
+    },
+    "35.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/35.tif",
+        "label": 0
+    },
+    "18t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/18t.tif",
+        "mask": "data/coverage/val/mask/18forged.tif",
+        "label": 1
+    },
+    "20t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/20t.tif",
+        "mask": "data/coverage/val/mask/20forged.tif",
+        "label": 1
+    },
+    "63t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/63t.tif",
+        "mask": "data/coverage/val/mask/63forged.tif",
+        "label": 1
+    },
+    "75t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/75t.tif",
+        "mask": "data/coverage/val/mask/75forged.tif",
+        "label": 1
+    },
+    "63.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/63.tif",
+        "label": 0
+    },
+    "56.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/56.tif",
+        "label": 0
+    },
+    "3t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/3t.tif",
+        "mask": "data/coverage/val/mask/3forged.tif",
+        "label": 1
+    },
+    "97.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/97.tif",
+        "label": 0
+    },
+    "42t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/42t.tif",
+        "mask": "data/coverage/val/mask/42forged.tif",
+        "label": 1
+    },
+    "86.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/86.tif",
+        "label": 0
+    },
+    "66t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/66t.tif",
+        "mask": "data/coverage/val/mask/66forged.tif",
+        "label": 1
+    },
+    "61.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/61.tif",
+        "label": 0
+    },
+    "49.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/49.tif",
+        "label": 0
+    },
+    "4.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/4.tif",
+        "label": 0
+    },
+    "96t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/96t.tif",
+        "mask": "data/coverage/val/mask/96forged.tif",
+        "label": 1
+    },
+    "81t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/81t.tif",
+        "mask": "data/coverage/val/mask/81forged.tif",
+        "label": 1
+    },
+    "2t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/2t.tif",
+        "mask": "data/coverage/val/mask/2forged.tif",
+        "label": 1
+    },
+    "62.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/62.tif",
+        "label": 0
+    },
+    "78t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/78t.tif",
+        "mask": "data/coverage/val/mask/78forged.tif",
+        "label": 1
+    },
+    "92t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/92t.tif",
+        "mask": "data/coverage/val/mask/92forged.tif",
+        "label": 1
+    },
+    "77.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/77.tif",
+        "label": 0
+    },
+    "14.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/14.tif",
+        "label": 0
+    },
+    "12t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/12t.tif",
+        "mask": "data/coverage/val/mask/12forged.tif",
+        "label": 1
+    },
+    "96.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/96.tif",
+        "label": 0
+    },
+    "85t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/85t.tif",
+        "mask": "data/coverage/val/mask/85forged.tif",
+        "label": 1
+    },
+    "50.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/50.tif",
+        "label": 0
+    },
+    "100.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/100.tif",
+        "label": 0
+    },
+    "76t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/76t.tif",
+        "mask": "data/coverage/val/mask/76forged.tif",
+        "label": 1
+    },
+    "71.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/71.tif",
+        "label": 0
+    },
+    "42.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/42.tif",
+        "label": 0
+    },
+    "5t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/5t.tif",
+        "mask": "data/coverage/val/mask/5forged.tif",
+        "label": 1
+    },
+    "41.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/41.tif",
+        "label": 0
+    },
+    "71t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/71t.tif",
+        "mask": "data/coverage/val/mask/71forged.tif",
+        "label": 1
+    },
+    "90t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/90t.tif",
+        "mask": "data/coverage/val/mask/90forged.tif",
+        "label": 1
+    },
+    "32t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/32t.tif",
+        "mask": "data/coverage/val/mask/32forged.tif",
+        "label": 1
+    },
+    "33.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/33.tif",
+        "label": 0
+    },
+    "87t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/87t.tif",
+        "mask": "data/coverage/val/mask/87forged.tif",
+        "label": 1
+    },
+    "70.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/70.tif",
+        "label": 0
+    },
+    "2.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/2.tif",
+        "label": 0
+    },
+    "43.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/43.tif",
+        "label": 0
+    },
+    "43t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/43t.tif",
+        "mask": "data/coverage/val/mask/43forged.tif",
+        "label": 1
+    },
+    "75.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/75.tif",
+        "label": 0
+    },
+    "40t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/40t.tif",
+        "mask": "data/coverage/val/mask/40forged.tif",
+        "label": 1
+    },
+    "17t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/17t.tif",
+        "mask": "data/coverage/val/mask/17forged.tif",
+        "label": 1
+    },
+    "28t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/28t.tif",
+        "mask": "data/coverage/val/mask/28forged.tif",
+        "label": 1
+    },
+    "82.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/82.tif",
+        "label": 0
+    },
+    "73.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/73.tif",
+        "label": 0
+    },
+    "78.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/78.tif",
+        "label": 0
+    },
+    "64.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/64.tif",
+        "label": 0
+    },
+    "69t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/69t.tif",
+        "mask": "data/coverage/val/mask/69forged.tif",
+        "label": 1
+    },
+    "15t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/15t.tif",
+        "mask": "data/coverage/val/mask/15forged.tif",
+        "label": 1
+    },
+    "47t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/47t.tif",
+        "mask": "data/coverage/val/mask/47forged.tif",
+        "label": 1
+    },
+    "13t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/13t.tif",
+        "mask": "data/coverage/val/mask/13forged.tif",
+        "label": 1
+    },
+    "15.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/15.tif",
+        "label": 0
+    },
+    "23.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/23.tif",
+        "label": 0
+    },
+    "64t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/64t.tif",
+        "mask": "data/coverage/val/mask/64forged.tif",
+        "label": 1
+    },
+    "77t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/77t.tif",
+        "mask": "data/coverage/val/mask/77forged.tif",
+        "label": 1
+    },
+    "98.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/98.tif",
+        "label": 0
+    },
+    "5.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/5.tif",
+        "label": 0
+    },
+    "79t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/79t.tif",
+        "mask": "data/coverage/val/mask/79forged.tif",
+        "label": 1
+    },
+    "9t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/9t.tif",
+        "mask": "data/coverage/val/mask/9forged.tif",
+        "label": 1
+    },
+    "91.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/91.tif",
+        "label": 0
+    },
+    "85.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/85.tif",
+        "label": 0
+    },
+    "91t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/91t.tif",
+        "mask": "data/coverage/val/mask/91forged.tif",
+        "label": 1
+    },
+    "97t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/97t.tif",
+        "mask": "data/coverage/val/mask/97forged.tif",
+        "label": 1
+    },
+    "98t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/98t.tif",
+        "mask": "data/coverage/val/mask/98forged.tif",
+        "label": 1
+    },
+    "60t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/60t.tif",
+        "mask": "data/coverage/val/mask/60forged.tif",
+        "label": 1
+    },
+    "11t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/11t.tif",
+        "mask": "data/coverage/val/mask/11forged.tif",
+        "label": 1
+    },
+    "68.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/68.tif",
+        "label": 0
+    },
+    "84.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/84.tif",
+        "label": 0
+    },
+    "84t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/84t.tif",
+        "mask": "data/coverage/val/mask/84forged.tif",
+        "label": 1
+    },
+    "4t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/4t.tif",
+        "mask": "data/coverage/val/mask/4forged.tif",
+        "label": 1
+    },
+    "79.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/79.tif",
+        "label": 0
+    },
+    "36t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/36t.tif",
+        "mask": "data/coverage/val/mask/36forged.tif",
+        "label": 1
+    },
+    "1.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/1.tif",
+        "label": 0
+    },
+    "10t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/10t.tif",
+        "mask": "data/coverage/val/mask/10forged.tif",
+        "label": 1
+    },
+    "38.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/38.tif",
+        "label": 0
+    },
+    "39.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/39.tif",
+        "label": 0
+    },
+    "40.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/40.tif",
+        "label": 0
+    },
+    "17.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/17.tif",
+        "label": 0
+    },
+    "59.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/59.tif",
+        "label": 0
+    },
+    "3.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/3.tif",
+        "label": 0
+    },
+    "53t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/53t.tif",
+        "mask": "data/coverage/val/mask/53forged.tif",
+        "label": 1
+    },
+    "92.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/92.tif",
+        "label": 0
+    },
+    "62t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/62t.tif",
+        "mask": "data/coverage/val/mask/62forged.tif",
+        "label": 1
+    },
+    "66.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/66.tif",
+        "label": 0
+    },
+    "14t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/14t.tif",
+        "mask": "data/coverage/val/mask/14forged.tif",
+        "label": 1
+    },
+    "58.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/58.tif",
+        "label": 0
+    },
+    "82t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/82t.tif",
+        "mask": "data/coverage/val/mask/82forged.tif",
+        "label": 1
+    },
+    "31t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/31t.tif",
+        "mask": "data/coverage/val/mask/31forged.tif",
+        "label": 1
+    },
+    "55.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/55.tif",
+        "label": 0
+    },
+    "31.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/31.tif",
+        "label": 0
+    },
+    "80t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/80t.tif",
+        "mask": "data/coverage/val/mask/80forged.tif",
+        "label": 1
+    },
+    "18.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/18.tif",
+        "label": 0
+    },
+    "53.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/53.tif",
+        "label": 0
+    },
+    "46.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/46.tif",
+        "label": 0
+    },
+    "26t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/26t.tif",
+        "mask": "data/coverage/val/mask/26forged.tif",
+        "label": 1
+    },
+    "99.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/99.tif",
+        "label": 0
+    },
+    "28.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/28.tif",
+        "label": 0
+    },
+    "38t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/38t.tif",
+        "mask": "data/coverage/val/mask/38forged.tif",
+        "label": 1
+    },
+    "70t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/70t.tif",
+        "mask": "data/coverage/val/mask/70forged.tif",
+        "label": 1
+    },
+    "47.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/47.tif",
+        "label": 0
+    },
+    "34.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/34.tif",
+        "label": 0
+    },
+    "49t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/49t.tif",
+        "mask": "data/coverage/val/mask/49forged.tif",
+        "label": 1
+    },
+    "22t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/22t.tif",
+        "mask": "data/coverage/val/mask/22forged.tif",
+        "label": 1
+    },
+    "74t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/74t.tif",
+        "mask": "data/coverage/val/mask/74forged.tif",
+        "label": 1
+    },
+    "65t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/65t.tif",
+        "mask": "data/coverage/val/mask/65forged.tif",
+        "label": 1
+    },
+    "8.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/8.tif",
+        "label": 0
+    },
+    "1t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/1t.tif",
+        "mask": "data/coverage/val/mask/1forged.tif",
+        "label": 1
+    },
+    "80.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/80.tif",
+        "label": 0
+    },
+    "60.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/60.tif",
+        "label": 0
+    },
+    "21.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/21.tif",
+        "label": 0
+    },
+    "57.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/57.tif",
+        "label": 0
+    },
+    "51.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/51.tif",
+        "label": 0
+    },
+    "7t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/7t.tif",
+        "mask": "data/coverage/val/mask/7forged.tif",
+        "label": 1
+    },
+    "93.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/93.tif",
+        "label": 0
+    },
+    "83.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/83.tif",
+        "label": 0
+    },
+    "27t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/27t.tif",
+        "mask": "data/coverage/val/mask/27forged.tif",
+        "label": 1
+    },
+    "19.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/19.tif",
+        "label": 0
+    },
+    "34t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/34t.tif",
+        "mask": "data/coverage/val/mask/34forged.tif",
+        "label": 1
+    },
+    "52t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/52t.tif",
+        "mask": "data/coverage/val/mask/52forged.tif",
+        "label": 1
+    },
+    "45t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/45t.tif",
+        "mask": "data/coverage/val/mask/45forged.tif",
+        "label": 1
+    },
+    "12.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/12.tif",
+        "label": 0
+    },
+    "16.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/16.tif",
+        "label": 0
+    },
+    "29.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/29.tif",
+        "label": 0
+    },
+    "89.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/89.tif",
+        "label": 0
+    },
+    "29t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/29t.tif",
+        "mask": "data/coverage/val/mask/29forged.tif",
+        "label": 1
+    },
+    "36.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/36.tif",
+        "label": 0
+    },
+    "39t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/39t.tif",
+        "mask": "data/coverage/val/mask/39forged.tif",
+        "label": 1
+    },
+    "100t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/100t.tif",
+        "mask": "data/coverage/val/mask/100forged.tif",
+        "label": 1
+    },
+    "21t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/21t.tif",
+        "mask": "data/coverage/val/mask/21forged.tif",
+        "label": 1
+    },
+    "88.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/88.tif",
+        "label": 0
+    },
+    "74.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/74.tif",
+        "label": 0
+    },
+    "7.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/7.tif",
+        "label": 0
+    },
+    "33t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/33t.tif",
+        "mask": "data/coverage/val/mask/33forged.tif",
+        "label": 1
+    },
+    "89t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/89t.tif",
+        "mask": "data/coverage/val/mask/89forged.tif",
+        "label": 1
+    },
+    "24.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/24.tif",
+        "label": 0
+    },
+    "37t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/37t.tif",
+        "mask": "data/coverage/val/mask/37forged.tif",
+        "label": 1
+    },
+    "83t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/83t.tif",
+        "mask": "data/coverage/val/mask/83forged.tif",
+        "label": 1
+    },
+    "19t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/19t.tif",
+        "mask": "data/coverage/val/mask/19forged.tif",
+        "label": 1
+    },
+    "76.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/76.tif",
+        "label": 0
+    },
+    "65.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/65.tif",
+        "label": 0
+    },
+    "51t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/51t.tif",
+        "mask": "data/coverage/val/mask/51forged.tif",
+        "label": 1
+    },
+    "69.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/69.tif",
+        "label": 0
+    },
+    "37.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/37.tif",
+        "label": 0
+    },
+    "25.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/25.tif",
+        "label": 0
+    },
+    "72.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/72.tif",
+        "label": 0
+    },
+    "44t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/44t.tif",
+        "mask": "data/coverage/val/mask/44forged.tif",
+        "label": 1
+    },
+    "54t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/54t.tif",
+        "mask": "data/coverage/val/mask/54forged.tif",
+        "label": 1
+    },
+    "99t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/99t.tif",
+        "mask": "data/coverage/val/mask/99forged.tif",
+        "label": 1
+    },
+    "30.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/30.tif",
+        "label": 0
+    },
+    "11.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/11.tif",
+        "label": 0
+    },
+    "6t.tif": {
+        "subset": "val",
+        "path": "data/coverage/val/image/6t.tif",
+        "mask": "data/coverage/val/mask/6forged.tif",
+        "label": 1
+    }
+}

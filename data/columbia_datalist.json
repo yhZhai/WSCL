@@ -1,0 +1,1997 @@
+{
+    "nikond70_05_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_05_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_11_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_11_sub_07.tif",
+        "label": 0
+    },
+    "canong3_02_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_02_sub_06.tif",
+        "label": 0
+    },
+    "nikond70_08_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_08_sub_06.tif",
+        "label": 0
+    },
+    "kodakdcs330_03_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/kodakdcs330_03_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_11_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_11_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_11_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_11_sub_08.tif",
+        "label": 0
+    },
+    "nikond70_05_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_05_sub_03.tif",
+        "label": 0
+    },
+    "canong3_02_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_02_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_38_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_38_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_02_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_02_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_08_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_08_sub_03.tif",
+        "label": 0
+    },
+    "nikond70_08_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_08_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_26_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_26_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_05_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_05_sub_07.tif",
+        "label": 0
+    },
+    "nikond70_02_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_02_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_17_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_17_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_20_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_20_sub_09.tif",
+        "label": 0
+    },
+    "nikond70_08_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_08_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_23_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_23_sub_09.tif",
+        "label": 0
+    },
+    "canong3_08_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_08_sub_02.tif",
+        "label": 0
+    },
+    "canong3_02_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_02_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_02_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_02_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_08_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_08_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_23_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_23_sub_03.tif",
+        "label": 0
+    },
+    "canong3_05_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_05_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_05_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_05_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_20_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_20_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_08_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_08_sub_01.tif",
+        "label": 0
+    },
+    "nikond70_11_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_11_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_29_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_29_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_32_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_32_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_08_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_08_sub_06.tif",
+        "label": 0
+    },
+    "canong3_08_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_08_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_29_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_29_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_35_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_35_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_20_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_20_sub_03.tif",
+        "label": 0
+    },
+    "nikond70_11_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_11_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_29_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_29_sub_04.tif",
+        "label": 0
+    },
+    "canong3_05_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_05_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_05_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_05_sub_02.tif",
+        "label": 0
+    },
+    "nikond70_11_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_11_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_02_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_02_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_05_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_05_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_38_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_38_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_38_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_38_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_14_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_14_sub_05.tif",
+        "label": 0
+    },
+    "canong3_02_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_02_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_35_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_35_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_11_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_11_sub_01.tif",
+        "label": 0
+    },
+    "nikond70_05_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_05_sub_08.tif",
+        "label": 0
+    },
+    "nikond70_02_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_02_sub_06.tif",
+        "label": 0
+    },
+    "nikond70_11_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_11_sub_08.tif",
+        "label": 0
+    },
+    "canong3_05_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_05_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_32_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_32_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_14_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_14_sub_09.tif",
+        "label": 0
+    },
+    "canong3_05_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_05_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_20_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_20_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_29_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_29_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_26_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_26_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_38_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_38_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_38_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_38_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_26_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_26_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_20_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_20_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_08_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_08_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_14_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_14_sub_01.tif",
+        "label": 0
+    },
+    "nikond70_11_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_11_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_05_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_05_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_17_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_17_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_38_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_38_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_17_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_17_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_35_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_35_sub_03.tif",
+        "label": 0
+    },
+    "nikond70_02_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_02_sub_07.tif",
+        "label": 0
+    },
+    "canong3_08_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_08_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_17_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_17_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_35_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_35_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_02_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_02_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_08_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_08_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_05_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_05_sub_06.tif",
+        "label": 0
+    },
+    "nikond70_05_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_05_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_17_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_17_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_26_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_26_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_38_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_38_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_26_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_26_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_23_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_23_sub_01.tif",
+        "label": 0
+    },
+    "canong3_05_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_05_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_02_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_02_sub_01.tif",
+        "label": 0
+    },
+    "nikond70_05_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_05_sub_05.tif",
+        "label": 0
+    },
+    "canong3_05_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_05_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_11_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_11_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_02_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_02_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_29_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_29_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_26_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_26_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_14_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_14_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_14_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_14_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_11_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_11_sub_09.tif",
+        "label": 0
+    },
+    "canong3_02_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_02_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_35_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_35_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_23_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_23_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_17_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_17_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_26_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_26_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_38_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_38_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_32_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_32_sub_08.tif",
+        "label": 0
+    },
+    "nikond70_05_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_05_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_02_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_02_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_17_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_17_sub_03.tif",
+        "label": 0
+    },
+    "nikond70_08_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_08_sub_02.tif",
+        "label": 0
+    },
+    "nikond70_08_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_08_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_14_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_14_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_20_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_20_sub_07.tif",
+        "label": 0
+    },
+    "nikond70_02_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_02_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_23_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_23_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_20_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_20_sub_02.tif",
+        "label": 0
+    },
+    "nikond70_11_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_11_sub_09.tif",
+        "label": 0
+    },
+    "canong3_08_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_08_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_05_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_05_sub_08.tif",
+        "label": 0
+    },
+    "canong3_05_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_05_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_17_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_17_sub_05.tif",
+        "label": 0
+    },
+    "canong3_08_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_08_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_20_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_20_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_11_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_11_sub_05.tif",
+        "label": 0
+    },
+    "nikond70_11_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_11_sub_03.tif",
+        "label": 0
+    },
+    "canong3_05_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_05_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_11_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_11_sub_02.tif",
+        "label": 0
+    },
+    "nikond70_11_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_11_sub_04.tif",
+        "label": 0
+    },
+    "nikond70_11_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_11_sub_07.tif",
+        "label": 0
+    },
+    "canong3_08_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_08_sub_05.tif",
+        "label": 0
+    },
+    "kodakdcs330_01_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/kodakdcs330_01_sub_01.tif",
+        "label": 0
+    },
+    "nikond70_08_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_08_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_32_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_32_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_29_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_29_sub_05.tif",
+        "label": 0
+    },
+    "canong3_02_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_02_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_14_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_14_sub_04.tif",
+        "label": 0
+    },
+    "nikond70_08_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_08_sub_07.tif",
+        "label": 0
+    },
+    "canong3_02_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_02_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_38_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_38_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_29_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_29_sub_08.tif",
+        "label": 0
+    },
+    "canong3_08_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_08_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_35_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_35_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_35_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_35_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_20_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_20_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_23_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_23_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_35_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_35_sub_08.tif",
+        "label": 0
+    },
+    "nikond70_05_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_05_sub_06.tif",
+        "label": 0
+    },
+    "canong3_02_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_02_sub_01.tif",
+        "label": 0
+    },
+    "nikond70_02_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_02_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_29_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_29_sub_03.tif",
+        "label": 0
+    },
+    "kodakdcs330_02_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/kodakdcs330_02_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_32_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_32_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_23_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_23_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_32_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_32_sub_07.tif",
+        "label": 0
+    },
+    "nikond70_02_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_02_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_26_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_26_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_02_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_02_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_26_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_26_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_23_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_23_sub_04.tif",
+        "label": 0
+    },
+    "canong3_08_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_08_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_32_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_32_sub_03.tif",
+        "label": 0
+    },
+    "canong3_08_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_08_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_17_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_17_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_14_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_14_sub_07.tif",
+        "label": 0
+    },
+    "canonxt_29_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_29_sub_07.tif",
+        "label": 0
+    },
+    "canong3_02_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_02_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_08_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_08_sub_04.tif",
+        "label": 0
+    },
+    "nikond70_08_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_08_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_05_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_05_sub_03.tif",
+        "label": 0
+    },
+    "canonxt_35_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_35_sub_05.tif",
+        "label": 0
+    },
+    "canonxt_32_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_32_sub_09.tif",
+        "label": 0
+    },
+    "nikond70_05_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_05_sub_04.tif",
+        "label": 0
+    },
+    "nikond70_02_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_02_sub_09.tif",
+        "label": 0
+    },
+    "canonxt_14_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_14_sub_06.tif",
+        "label": 0
+    },
+    "canonxt_32_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_32_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_05_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_05_sub_04.tif",
+        "label": 0
+    },
+    "nikond70_08_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_08_sub_04.tif",
+        "label": 0
+    },
+    "canong3_05_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canong3_05_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_08_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_08_sub_08.tif",
+        "label": 0
+    },
+    "nikond70_02_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_02_sub_05.tif",
+        "label": 0
+    },
+    "nikond70_05_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_05_sub_01.tif",
+        "label": 0
+    },
+    "canonxt_11_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_11_sub_04.tif",
+        "label": 0
+    },
+    "canonxt_23_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_23_sub_08.tif",
+        "label": 0
+    },
+    "canonxt_02_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_02_sub_03.tif",
+        "label": 0
+    },
+    "nikond70_02_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/nikond70_02_sub_02.tif",
+        "label": 0
+    },
+    "canonxt_08_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/au/canonxt_08_sub_09.tif",
+        "label": 0
+    },
+    "canong3_kodakdcs330_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_07.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_07_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_03.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_03_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_10.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_10.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_10_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_26.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_26.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_26_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_29.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_29.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_29_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_21.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_21.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_21_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_15.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_15.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_15_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_01.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_01_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_30.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_30.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_30_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_01.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_01_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_20.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_20.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_20_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_15.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_15.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_15_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_16.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_16.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_16_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_13.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_13.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_13_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_05.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_05_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_24.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_24.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_24_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_20.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_20.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_20_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_30.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_30.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_30_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_28.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_28.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_28_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_04.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_04_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_02.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_02_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_04.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_04_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_22.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_22.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_22_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_09.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_09_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_24.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_24.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_24_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_28.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_28.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_28_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_02.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_02_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_15.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_15.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_15_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_11.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_11.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_11_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_25.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_25.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_25_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_04.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_04_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_21.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_21.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_21_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_30.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_30.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_30_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_25.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_25.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_25_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_22.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_22.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_22_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_25.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_25.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_25_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_18.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_18.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_18_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_11.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_11.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_11_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_17.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_17.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_17_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_17.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_17.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_17_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_03.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_03_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_13.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_13.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_13_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_21.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_21.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_21_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_07.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_07_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_08.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_08_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_01.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_01_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_19.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_19.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_19_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_08.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_08_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_14.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_14.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_14_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_29.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_29.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_29_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_09.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_09_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_04.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_04_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_06.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_06_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_22.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_22.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_22_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_09.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_09_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_20.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_20.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_20_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_10.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_10.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_10_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_18.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_18.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_18_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_28.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_28.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_28_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_25.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_25.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_25_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_03.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_03_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_12.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_12.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_12_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_09.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_09_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_22.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_22.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_22_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_16.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_16.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_16_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_19.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_19.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_19_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_06.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_06_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_26.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_26.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_26_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_09.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_09_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_28.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_28.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_28_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_26.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_26.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_26_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_11.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_11.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_11_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_15.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_15.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_15_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_22.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_22.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_22_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_23.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_23.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_23_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_27.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_27.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_27_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_05.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_05_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_22.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_22.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_22_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_23.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_23.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_23_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_23.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_23.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_23_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_27.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_27.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_27_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_04.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_04_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_07.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_07_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_10.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_10.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_10_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_18.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_18.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_18_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_03.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_03_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_24.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_24.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_24_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_07.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_07_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_14.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_14.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_14_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_21.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_21.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_21_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_30.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_30.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_30_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_05.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_05_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_23.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_23.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_23_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_27.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_27.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_27_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_27.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_27.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_27_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_24.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_24.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_24_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_24.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_24.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_24_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_08.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_08_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_06.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_06_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_27.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_27.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_27_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_29.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_29.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_29_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_12.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_12.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_12_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_01.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_01_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_10.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_10.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_10_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_14.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_14.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_14_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_16.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_16.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_16_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_12.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_12.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_12_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_08.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_08_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_19.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_19.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_19_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_03.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_03_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_09.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_09.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_09_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_17.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_17.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_17_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_02.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_02_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_16.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_16.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_16_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_20.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_20.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_20_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_17.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_17.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_17_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_16.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_16.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_16_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_23.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_23.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_23_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_05.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_05_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_20.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_20.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_20_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_18.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_18.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_18_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_30.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_30.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_30_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_21.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_21.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_21_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_12.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_12.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_12_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_13.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_13.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_13_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_18.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_18.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_18_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_07.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_07_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_07.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_07.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_07_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_17.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_17.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_17_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_11.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_11.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_11_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_06.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_06_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_29.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_29.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_29_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_14.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_14.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_14_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_14.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_14.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_14_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_01.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_01_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_26.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_26.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_26_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_29.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_29.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_29_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_24.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_24.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_24_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_13.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_13.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_13_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_30.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_30.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_30_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_17.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_17.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_17_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_13.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_13.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_13_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_19.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_19.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_19_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_04.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_04.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_04_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_11.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_11.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_11_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_01.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_01.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_01_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_12.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_12.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_12_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_13.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_13.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_13_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_14.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_14.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_14_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_26.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_26.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_26_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_26.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_26.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_26_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_11.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_11.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_11_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_02.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_02_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_23.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_23.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_23_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_08.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_08_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_28.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_28.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_28_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_05.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_05_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_15.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_15.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_15_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_20.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_20.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_20_gt.png",
+        "label": 1
+    },
+    "nikond70_kodakdcs330_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_kodakdcs330_sub_06.tif",
+        "mask": "data/columbia/val/mask/nikond70_kodakdcs330_sub_06_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_10.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_10.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_10_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_15.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_15.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_15_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_02.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_02_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_21.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_21.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_21_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_16.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_16.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_16_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_25.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_25.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_25_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_19.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_19.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_19_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_06.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_06.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_06_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_19.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_19.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_19_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_03.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_03.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_03_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_28.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_28.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_28_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_05.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_05.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_05_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_29.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_29.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_29_gt.png",
+        "label": 1
+    },
+    "canong3_kodakdcs330_sub_12.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_kodakdcs330_sub_12.tif",
+        "mask": "data/columbia/val/mask/canong3_kodakdcs330_sub_12_gt.png",
+        "label": 1
+    },
+    "canonxt_kodakdcs330_sub_18.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canonxt_kodakdcs330_sub_18.tif",
+        "mask": "data/columbia/val/mask/canonxt_kodakdcs330_sub_18_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_27.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_27.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_27_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_02.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_02.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_02_gt.png",
+        "label": 1
+    },
+    "nikond70_canonxt_sub_10.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/nikond70_canonxt_sub_10.tif",
+        "mask": "data/columbia/val/mask/nikond70_canonxt_sub_10_gt.png",
+        "label": 1
+    },
+    "canong3_canonxt_sub_25.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_canonxt_sub_25.tif",
+        "mask": "data/columbia/val/mask/canong3_canonxt_sub_25_gt.png",
+        "label": 1
+    },
+    "canong3_nikond70_sub_08.tif": {
+        "subset": "val",
+        "path": "data/columbia/val/tp/canong3_nikond70_sub_08.tif",
+        "mask": "data/columbia/val/mask/canong3_nikond70_sub_08_gt.png",
+        "label": 1
+    }
+}
