@@ -28,6 +28,8 @@ pip install -r requirements.txt
 We provide preprocessed CASIA (v1 and v2), Columbia, and Coverage datasets [here](https://buffalo.box.com/s/2t3eqvwp7ua2ircpdx12sfq04sne4x50).
 Place them under the `data` folder.
 
+For other datasets, please prepare a json datalist file with similar structure as the existing datalist files in the `data` folder. After that, adjust the `train_dataslist` or the `val_datalist` entries in the configuration files `configs/final.yaml`.
+
 
 ## 3. Training and evaluation
 
@@ -37,6 +39,7 @@ Runing the following script to train on CASIAv2, and evalute on CASIAv1, Columbi
 python main.py --load configs/final.yaml
 ```
 
+Besides, our pre-trained checkpoint is available [here](https://buffalo.box.com/s/2t3eqvwp7ua2ircpdx12sfq04sne4x50).
 
 ## Citation
 If you feel this project is helpful, please consider citing our paper
