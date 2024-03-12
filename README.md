@@ -39,7 +39,12 @@ Runing the following script to train on CASIAv2, and evalute on CASIAv1, Columbi
 python main.py --load configs/final.yaml
 ```
 
-Besides, our pre-trained checkpoint is available [here](https://buffalo.box.com/s/2t3eqvwp7ua2ircpdx12sfq04sne4x50).
+For evaluating a pre-trained checkpoint:
+```shell
+python main.py --load configs/final.yaml --eval --resume checkpoint-path
+```
+
+We provide our pre-trained checkpoint [here](https://buffalo.box.com/s/2t3eqvwp7ua2ircpdx12sfq04sne4x50).
 
 ## Citation
 If you feel this project is helpful, please consider citing our paper
