@@ -1,13 +1,26 @@
 # Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning
 
 
-> [**Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning**](https://arxiv.org/abs/2309.01246)
->
-> [Yuanhao Zhai](https://www.yhzhai.com), [Tianyu Luan](https://tyluann.github.io), [David Doermann](https://cse.buffalo.edu/~doermann/), [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/)
->
-> University at Buffalo
->
-> ICCV 2023
+<p align="center">
+  <a href="https://arxiv.org/abs/2309.01246"><b>Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning</b></a>
+</p>
+
+<p align="center">
+  <a href="https://www.yhzhai.com">Yuanhao Zhai</a>, 
+  <a href="https://tyluann.github.io">Tianyu Luan</a>, 
+  <a href="https://cse.buffalo.edu/~doermann/">David Doermann</a>, 
+  <a href="https://cse.buffalo.edu/~jsyuan/">Junsong Yuan</a>
+</p>
+
+<p align="center">
+  University at Buffalo
+</p>
+
+<p align="center">
+  ICCV 2023
+</p>
+
+![tp](./assets/tp.jpg)
 
 This repo contains the MIL-FCN version of our WSCL implementation.
 
