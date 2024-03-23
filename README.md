@@ -3,7 +3,7 @@ title: "WSCL: Image Manipulation Detection"
 emoji: 🕵️
 colorFrom: blue
 colorTo: green
-sdk: streamlit
+sdk: gradio
 sdk_version: 4.22.0
 app_file: app.py
 pinned: false
@@ -34,11 +34,15 @@ license: mit
 
 ![tp](./assets/tp.jpg)
 
+<p align="center">
+<a href="https://huggingface.co/spaces/yhzhai/WSCL">🌟Gradio demo🌟</a>
+</p>
+
 This repo contains the MIL-FCN version of our WSCL implementation.
 
 ## 🚨News
 
-**03/2024**: add demo script! Check [here](https://github.com/yhZhai/WSCL?tab=readme-ov-file#4-demo) for more details!
+**03/2024**: add demo script! Check [here](https://github.com/yhZhai/WSCL?tab=readme-ov-file#4-demo) for more details, and check [here](https://huggingface.co/spaces/yhzhai/WSCL) for the online Gradio demo!
 
 ## 1. Setup
 Clone this repo
