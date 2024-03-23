@@ -74,7 +74,7 @@ python demo.py --load configs/final.yaml --resume checkpoint-path
 ```
 
 By default, it evaluates all  `.jpg` files in the `demo` folder, and saves the
-detection result in `tmp`.
+detection result in `tmp`, with manipulation probablities appended to the file names.
 
 
 

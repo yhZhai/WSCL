@@ -1,9 +1,10 @@
+from pathlib import Path
+
 import albumentations as A
 import cv2
 import torch
 import tqdm
 from albumentations.pytorch.functional import img_to_tensor
-from pathlib import Path
 from timm.data.constants import IMAGENET_DEFAULT_MEAN, IMAGENET_DEFAULT_STD
 from torchvision.utils import draw_segmentation_masks, make_grid, save_image
 
@@ -31,8 +32,8 @@ def demo(folder_path, output_path=Path("tmp")):
             image = image.to(opt.device).unsqueeze(0)
             outputs = model(image, seg_size=image_size)
             out_map = outputs["ensemble"]["out_map"][0, ...].detach().cpu()
-            pred = outputs["ensemble"]["out_map"].max().item() 
-            if  pred > opt.mask_threshold:
+            pred = outputs["ensemble"]["out_map"].max().item()
+            if pred > opt.mask_threshold:
                 print(f"Found manipulation in {image_path.name}")
             else:
                 print(f"No manipulation found in {image_path.name}")
