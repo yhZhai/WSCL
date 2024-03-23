@@ -10,8 +10,8 @@ import yaml
 from termcolor import cprint
 
 
-def load_dataset_arguments(opt):
-    if opt.load is None:
+def load_dataset_arguments(cfg_path, opt):
+    if opt.load is None and cfg_path is None:
         return
 
     # exclude parameters assigned in the command
@@ -24,7 +24,10 @@ def load_dataset_arguments(opt):
         arguments = []
 
     # load parameters in the yaml file
-    assert os.path.exists(opt.load)
+    if cfg_path is not None:
+        opt.load = cfg_path
+    else:
+        assert os.path.exists(opt.load)
     with open(opt.load, "r") as f:
         yaml_arguments = yaml.safe_load(f)
     # TODO this should be verified
@@ -33,7 +36,7 @@ def load_dataset_arguments(opt):
             setattr(opt, k, v)
 
 
-def get_opt(additional_parsers: Optional[List] = None):
+def get_opt(cfg_path: Optional[str] = None, additional_parsers: Optional[List] = None):
     parents = [get_arguments_parser()]
     if additional_parsers:
         parents.extend(additional_parsers)
@@ -43,7 +46,7 @@ def get_opt(additional_parsers: Optional[List] = None):
     opt = parser.parse_known_args()[0]
 
     # load dataset argument file
-    load_dataset_arguments(opt)
+    load_dataset_arguments(cfg_path, opt)
 
     # user-defined warnings and assertions
     if opt.decoder.lower() not in ["c1"]:

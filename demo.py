@@ -31,6 +31,11 @@ def demo(folder_path, output_path=Path("tmp")):
             image = image.to(opt.device).unsqueeze(0)
             outputs = model(image, seg_size=image_size)
             out_map = outputs["ensemble"]["out_map"][0, ...].detach().cpu()
+            pred = outputs["ensemble"]["out_map"].max().item() 
+            if  pred > opt.mask_threshold:
+                print(f"Found manipulation in {image_path.name}")
+            else:
+                print(f"No manipulation found in {image_path.name}")
 
             overlay = draw_segmentation_masks(
                 dsm_image, masks=out_map[0, ...] > opt.mask_threshold
@@ -43,7 +48,8 @@ def demo(folder_path, output_path=Path("tmp")):
                 ],
                 padding=5,
             )
-            save_image(grid_image, (output_path / image_path.name).as_posix())
+            image_name = image_path.stem + f"-{pred:.2f}" + image_path.suffix
+            save_image(grid_image, (output_path / image_name).as_posix())
 
 
 if __name__ == "__main__":
