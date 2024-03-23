@@ -10,7 +10,7 @@ import prettytable as pt
 import torch
 import torch.nn as nn
 from fast_pytorch_kmeans import KMeans
-from pathlib2 import Path
+from pathlib import Path
 from scipy.stats import hmean
 from sklearn import metrics
 from termcolor import cprint

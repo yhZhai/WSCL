@@ -11,6 +11,10 @@
 
 This repo contains the MIL-FCN version of our WSCL implementation.
 
+## 🚨News
+
+**03/2024**: add demo script! Check [here](https://github.com/yhZhai/WSCL?tab=readme-ov-file#4-demo) for more details!
+
 ## 1. Setup
 Clone this repo
 
@@ -45,6 +49,21 @@ python main.py --load configs/final.yaml --eval --resume checkpoint-path
 ```
 
 We provide our pre-trained checkpoint [here](https://buffalo.box.com/s/2t3eqvwp7ua2ircpdx12sfq04sne4x50).
+
+
+## 4. Demo
+
+Running our manipulation model on your custom data!
+Before running, please configure your desired input and output path in the `demo.py` file.
+
+```shell
+python demo.py --load configs/final.yaml --resume checkpoint-path
+```
+
+By default, it evaluates all  `.jpg` files in the `demo` folder, and saves the
+detection result in `tmp`.
+
+
 
 ## Citation
 If you feel this project is helpful, please consider citing our paper
