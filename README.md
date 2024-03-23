@@ -1,3 +1,15 @@
+---
+title: "WSCL: Image Manipulation Detection"
+emoji: :detective
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 4.22.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning
 
 
