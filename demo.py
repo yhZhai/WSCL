@@ -54,7 +54,7 @@ def demo(folder_path, output_path=Path("tmp")):
 
 
 if __name__ == "__main__":
-    folder_path = Path("demo")
-    output_path = Path("tmp")
+    folder_path = Path("demo")  # input path
+    output_path = Path("tmp")  # output path
     output_path.mkdir(exist_ok=True, parents=True)
-    demo(folder_path)
+    demo(folder_path, output_path)
