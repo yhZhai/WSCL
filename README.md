@@ -1,5 +1,6 @@
 # Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning
 
+<a href='https://arxiv.org/abs/2309.01246'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a> <a href='https://huggingface.co/spaces/yhzhai/WSCL'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HF-demo-yellow'></a>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2309.01246"><b>Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning</b></a>
