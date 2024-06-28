@@ -23,6 +23,8 @@
 
 ![tp](./assets/tp.jpg)
 
+Our WSCL (weakly-supervised self-consistency learning) can detect and localize image manipulations, using only image-level binary labels for training.
+
 <p align="center">
 <a href="https://huggingface.co/spaces/yhzhai/WSCL">🌟Gradio demo🌟</a>
 </p>
